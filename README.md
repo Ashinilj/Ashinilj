@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SolarCast- Solar Energy Forecasting ToolKit**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning backend development through **Node JS**
 
 - 📫 How to reach me **@ashinilj367@gmail.com**
 
