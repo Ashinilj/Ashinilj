@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashinilj&label=Profile%20views&color=0e75b6&style=flat" alt="ashinilj" /> </p>
 
 - 🔭 I’m currently working on **SolarCast- Solar Energy Forecasting ToolKit**
+- My aim through this project is to contribute to sustainable development, do my part to conserve renewable resources and shape a better future for coming generations.
 
 - 🌱 I’m currently learning backend development through **Node JS**
 
