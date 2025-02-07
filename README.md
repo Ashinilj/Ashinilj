@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning backend development through **Node JS** & **React Native**
 
-- 📫 How to reach me **@ashinilj367@gmail.com**
+- 📫 How to reach me **@ashinilj367@gmail.com** or **linkedin.com/in/ashinilj/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
