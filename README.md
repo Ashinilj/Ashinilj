@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently developing a National Hackathon Website **What The Hack?**
 - Visit my new project from here: **whatthehack.site**
+- Make sure to drop a mail to ashinilj367@gmail.com for feedback.
 - My aim through this project is to contribute to sustainable development, do my part to conserve renewable resources and shape a better future for coming generations.
 
 - 🌱 I’m currently learning backend development through **Node JS** & **React Native**
