@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashini LJ</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <h3 align="center">Currently studying at Chandigarh University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashinilj&label=Profile%20views&color=0e75b6&style=flat" alt="ashinilj" /> </p>
@@ -9,7 +9,7 @@
 - Make sure to drop a mail to ashinilj367@gmail.com for feedback.
 - My aim through this project is to contribute to sustainable development, do my part to conserve renewable resources and shape a better future for coming generations.
 
-- 🌱 I’m currently learning backend development through Next JS **Node JS** & **React Native**
+- 🌱 I’m currently learning backend development through **Next JS** & **React Native**
 - Check out my Leetcode Profile: https://leetcode.com/u/Ashinilj/
 
 - 📫 How to reach me **@ashinilj367@gmail.com** or **linkedin.com/in/ashinilj/**
