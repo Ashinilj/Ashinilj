@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashinilj&label=Profile%20views&color=0e75b6&style=flat" alt="ashinilj" /> </p>
 
-- 🔭 I’m currently developing a National Hackathon Website: **What The Hack?**
+- 🔭 I’m currently developing a Website to host a National Level Hackathon: **What The Hack?**
 - Visit my new project from here: **whatthehack.site**
 - Make sure to drop a mail to ashinilj367@gmail.com for feedback.
 - My aim through this project is to contribute to sustainable development, do my part to conserve renewable resources and shape a better future for coming generations.
