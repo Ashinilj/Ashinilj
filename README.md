@@ -9,7 +9,7 @@
 - Make sure to drop a mail to ashinilj367@gmail.com or connect through LinkedIn for feedback.
 - My aim through this project is to contribute to sustainable development, do my part to conserve renewable resources and shape a better future for coming generations.
 
-- 🌱 I’m currently learning backend development through **Next JS** & **React Native**
+- 🌱 I’m currently learning backend development through **Next JS** & app development through **React Native**
 - Check out my Leetcode Profile: https://leetcode.com/u/Ashinilj/
 
 - 📫 How to reach me **@ashinilj367@gmail.com** or **linkedin.com/in/ashinilj/**
