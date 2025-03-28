@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently developing a website to host a PAN India hackathon.
 - Make sure to drop a mail to ashinilj367@gmail.com or connect through LinkedIn for feedback.
-- My aim through this project is to contribute to sustainable development, do my part to conserve renewable resources and shape a better future for coming generations.
+- My aim through this project is to contribute to sustainable development, do my part to conserve renewable resources, and shape a better future for coming generations.
 
 - 🌱 I’m currently learning backend development through **Next JS** & app development through **React Native**
 - I have also delved into the world of Flutter.
