@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashini L J</h1>
+<h1 align="center">Hi 👋, I'm Ashini LJ</h1>
 <h3 align="center">A passionate Computer Science Engineering Student from India</h3>
 <h3 align="center">Currently studying at Chandigarh University</h3>
 
