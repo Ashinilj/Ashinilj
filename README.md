@@ -3,16 +3,30 @@
 <h3 align="center">Currently studying at Chandigarh University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashinilj&label=Profile%20views&color=0e75b6&style=flat" alt="ashinilj" /> </p>
+<table>
+  <tr>
+    <td>
 
-- 🔭 I’m developing a website hosting a PAN India hackathon.
-- Make sure to drop a mail to ashinilj367@gmail.com or connect through LinkedIn for feedback.
-- My aim through this project is to contribute to sustainable development, do my part to conserve renewable resources, and shape a better future for coming generations.
+🔭 I’m developing a website hosting a PAN India hackathon.  
+<br><br>
+Make sure to drop a mail to <b>ashinilj367@gmail.com</b> or connect through <b>LinkedIn</b> for feedback.  
+<br><br>
+My aim through this project is to contribute to sustainable development, do my part to conserve renewable resources, and shape a better future for coming generations.  
+<br><br>
+🌱 I’m currently learning backend development through <b>Next JS</b> & app development through <b>React Native</b>.  
+<br><br>
+I have also delved into the world of <b>Flutter</b> for cross platform app development.  
+<br><br>
+Check out my Leetcode Profile: [https://leetcode.com/u/Ashinilj/](https://leetcode.com/u/Ashinilj/)  
+<br><br>
+📫 How to reach me: **ashinilj367@gmail.com** or [linkedin.com/in/ashinilj](https://linkedin.com/in/ashinilj)
 
-- 🌱 I’m currently learning backend development through **Next JS** & app development through **React Native**
-- I have also delved into the world of Flutter for cross platform app development.
-- Check out my Leetcode Profile: https://leetcode.com/u/Ashinilj/
-
-- 📫 How to reach me **@ashinilj367@gmail.com** or **linkedin.com/in/ashinilj/**
+</td>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R3ZnJkdjAxeWlpY2x3Y2lpbTkwNzA5OHFzb3I2bXlwNTcxbW9zcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
